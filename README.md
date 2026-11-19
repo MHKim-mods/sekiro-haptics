@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.png" alt="Sekiro Haptics banner" width="100%"></p>
+
 # Sekiro Haptics — controller feedback that responds to combat
 
 Sekiro Haptics is an independent Windows utility that adds game-event-driven feedback for **Sekiro: Shadows Die Twice** on PC. Rather than using the same vibration for every action, it responds to detected combat events, including deflects, enemy reactions, prosthetic tools, Mikiri Counter, stomps and Lightning Reversal.
